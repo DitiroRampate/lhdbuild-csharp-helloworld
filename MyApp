@@ -1,0 +1,18 @@
+using System;
+ 
+namespace MyApp
+{
+    class Hello { 
+        public static void World()
+        {
+            Console.WriteLine("Hello World!");
+            Console.WriteLine("We are MLH, We are the best!");
+        }        
+        static void Main(string[] args)
+        {
+           World();
+        }
+        
+
+    }
+}
